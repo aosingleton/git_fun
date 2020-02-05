@@ -15,6 +15,8 @@ Assignment Instructions:
 
 Common Terms:
     Describe what these terms mean in your own words: 
+    'folder' = 
+    'directory' =
     'pull' = 
     'push' = 
     'origin' = 
@@ -30,7 +32,7 @@ Common Actions:
     'git checkout -b' =
 
 Stage 1:
-  now that you have update the common terms and actions with values your should create a new branch called NH/fun, add your fun.yaml file, commit locally, then push code to repo.
+  now that you have updated the common terms and actions with values your should create a new branch called 'NH/fun', add your fun.yaml file, commit locally, then push code to repo.
 
 Stage 1a:
   create a pull request in 'console' and make me a reviewer.
