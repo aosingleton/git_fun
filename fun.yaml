@@ -1,14 +1,15 @@
 Instructions:
   Using terminal to the following:
-    1) change directory into the desktop folder (e.g. cd Desktop)
-    2) change directory into the 'github' folder
-    3) make a directory in the 'github' folder called 'github_excercise'
-    4) read important note
-    5) move on to assignment instructions
+    1) read important note
+    2) move on to assignment instructions
 
 Assignment Instructions:
   Assignments are broken up into a few parts.  First we will define terms, second we will create a repo, third we will update the repo, fourth we will peer review each others work, five we will celebrate :)
-  Initial: CLONE 'git_fun' into your Desktop/github/github_excercise folder
+  Initial: (using terminal) 
+    1) change directory into the desktop folder (e.g. cd Desktop)
+    2) change directory into the 'github' folder
+    3) make a directory in the 'github' folder called 'github_excercise'
+    4) CLONE 'git_fun' into your Desktop/github/github_excercise folder
   Part 1: Please complete the common terms and common actions sections.
   Part 2: Please complete the stage 1 and 1a sections.
 
