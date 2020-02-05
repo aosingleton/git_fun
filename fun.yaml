@@ -8,8 +8,9 @@ Instructions:
 
 Assignment Instructions:
   Assignments are broken up into a few parts.  First we will define terms, second we will create a repo, third we will update the repo, fourth we will peer review each others work, five we will celebrate :)
+  Initial: CLONE 'git_fun' into your Desktop/github/github_excercise folder
   Part 1: Please complete the common terms and common actions sections.
-  Part 2: Please complete the stage 1 section.
+  Part 2: Please complete the stage 1 and 1a sections.
 
 Common Terms:
     Describe what these terms mean in your own words: 
@@ -28,6 +29,14 @@ Common Actions:
     'git checkout -b' =
 
 Stage 1:
+  now that you have update the common terms and actions with values your should create a new branch called NH/fun, add your fun.yaml file, commit locally, then push code to repo.
+
+Stage 1a:
+  create a pull request in 'console' and make me a reviewer.
+  STOP
+
+
+Stage 2:
     create a 'new' 'public' repo in console and name it 'teamwork_repo'
     copy commands using arrow key or by highlighting with your mouse relevant commands...
         "git init
@@ -38,7 +47,7 @@ Stage 1:
     after you have copied commands you should use terminal to create a new folder in the desktop/github folder to hold our new repo.
     change directory in that newly created repo and paste the commnds you copied from github
     once copied, you should be able to go to github, refresh the page, and see something a newly added file
-    once you get to this point invite me to the repo using my username and we can move onto Stage 2.
+    once you get to this point invite me to the repo using my username and we can move onto Stage 3.
 
 Important Note:
   I am writing this for only 2 reasons. The first is to try to help you continue to build good habits.  The second is to continue to develop the focus on details.  Once you have read this send me a slack message with the name of a Pokemon.  
